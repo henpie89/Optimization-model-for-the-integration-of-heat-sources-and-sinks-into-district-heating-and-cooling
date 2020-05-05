@@ -1,4 +1,4 @@
-# -DTU
+# DTU
 The copyright owner is the Technical University of Denmark.
 
 The model is called "Optimization model for the integration of district heating, district cooling, heat sources and heat sinks"
