@@ -1,7 +1,7 @@
 # DTU
 The copyright owner is the Technical University of Denmark.
 
-The model is called "Optimization model for the integration of district heating, district cooling, heat sources and heat sinks"
+The model is called "Optimization model for the integration of heat sources and sinks into district heating and cooling"
 The authors of the model are: Henrik Pieper, Torben Ommen, Brian Elmegaard and Wiebke Brix Markussen.
 
 Input data and description of the model can be found under the following DOI: 10.11583/DTU.11363198
