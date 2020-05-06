@@ -4,7 +4,7 @@ The copyright owner is the Technical University of Denmark.
 The model is called "Optimization model for the integration of heat sources and sinks into district heating and cooling"
 The authors of the model are: Henrik Pieper, Torben Ommen, Brian Elmegaard and Wiebke Brix Markussen.
 
-Input data and description of the model can be found under the following DOI: 10.11583/DTU.11363198
+Input data and description of the model can be found under the following DOI: https://doi.org/10.11583/DTU.11363198
 
 The optimization model was developed in the General Algebraic Modelling System (GAMS, version 24.8.3) using the CPLEX solver, version 12.7.0.0. The software code can be found at the provided link. 
 The purpose of the model is to investigate which heat sources, heat sinks and/or combination of them are best suited for heat pumps and chillers to supply district heating and cooling. Mixed-integer linear programming was used to carry out an annual optimization on an hourly basis to minimize total annualized costs.
